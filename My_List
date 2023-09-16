@@ -8,6 +8,79 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 #EXTINF:-1 group-title="TV Abierta", LAS ESTRELLAS
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+#EXTINF:-1 group-title="TV Abierta", AGU: Canal 26
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1 group-title="TV Abierta", AGU: Canal 26
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", GDL: Canal 4
+https://ythls.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
+#EXTINF:-1 group-title="TV Abierta", GDL: Canal 4
+https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
+#EXTINF:-1 group-title="TV Abierta", CAM: TRC Television
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", CHP: Canal 10
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", CHH: Canal 28 Chihuahua
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", CHH: CANAL 44
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", CMX: Efekto TV
+https://cdn.jwplayer.com/manifests/bez1terN.m3u8
+#EXTINF:-1 group-title="TV Abierta", COA: Canal 4 Saltillo
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", COA: 15TV Sabinas
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", DUR: Canal 10 Durango
+http://204.12.193.98:1935/TvHD/canal10/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", DUR: TV Lobo Durango
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", GUA: TV Cuatro 4.1 Noticias
+https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", GUA: TV Cuatro 4.2 Cultura
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", GUA: TV Cuatro 4.3 Deportes
+https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", JAL: Jalisco TV
+https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", MIC: SMRTV Michoacan
+https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", MIC: Canal 13 Michoacan
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1 group-title="TV Abierta", PUE: Canal 16.1
+https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", PUE: Canal 16.2
+https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", PUE: Canal 26.1
+http://189.240.210.28:1935/envivo/puecom/chunklist_w166335976.m3u8
+#EXTINF:-1 group-title="TV Abierta", PUE: Canal 26.2
+http://189.240.210.28:1935/envivo/puecom/chunklist_w745561738.m3u8
+#EXTINF:-1 group-title="TV Abierta", PUE: TV comunicaciones Puebla
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", ,QUE: RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 group-title="TV Abierta", ROO: Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", SLP: Nueve TV
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8
+#EXTINF:-1 group-title="TV Abierta", SIN: TVP Mazatlan
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", SIN: TVP Culiacan
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", SIN: TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", SON: TVP Cd. Obregon
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
+#EXTINF:-1 group-title="TV Abierta", SON: Telemax Sonora
+http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", TLA: Tlaxcala Television
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
+#EXTINF:-1 group-title="TV Abierta", VER: TVMAS Veracruz
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", YUC: Teleplay Merida
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta", ZAC: Canal 24 Zacatecas
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:-1 group-title="TV Abierta", 4 GDL
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1 group-title="TV Abierta", 8 MTY
@@ -244,81 +317,6 @@ https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/ind
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 
 *** Funciona Razonablemente bien
-#EXTINF:-1 group-title="NACIONALES", AGU: Canal 26
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 group-title="NACIONALES", AGU: Canal 26
-https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", GDL: Canal 4
-https://ythls.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
-#EXTINF:-1 group-title="NACIONALES", GDL: Canal 4
-https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
-#EXTINF:-1 group-title="NACIONALES", CAM: TRC Television
-https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", CHP: Canal 10
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", CHH: Canal 28 Chihuahua
-https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", CHH: CANAL 44
-https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", CMX: Efekto TV
-https://cdn.jwplayer.com/manifests/bez1terN.m3u8
-#EXTINF:-1 group-title="NACIONALES", COA: Canal 4 Saltillo
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", COA: 15TV Sabinas
-https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", DUR: Canal 10 Durango
-http://204.12.193.98:1935/TvHD/canal10/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", DUR: TV Lobo Durango
-http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", GUA: TV Cuatro 4.1 Noticias
-https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", GUA: TV Cuatro 4.2 Cultura
-https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", GUA: TV Cuatro 4.3 Deportes
-https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", JAL: Jalisco TV
-https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", MIC: SMRTV Michoacan
-https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", MIC: Canal 13 Michoacan
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:-1 group-title="NACIONALES", PUE: Canal 16.1
-https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", PUE: Canal 16.2
-https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", PUE: Canal 26.1
-http://189.240.210.28:1935/envivo/puecom/chunklist_w166335976.m3u8
-#EXTINF:-1 group-title="NACIONALES", PUE: Canal 26.2
-http://189.240.210.28:1935/envivo/puecom/chunklist_w745561738.m3u8
-#EXTINF:-1 group-title="NACIONALES", PUE: TV comunicaciones Puebla
-http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", ,QUE: RTQ Queretaro
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1 group-title="NACIONALES", ROO: Canal 10 Cancun
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", SLP: Nueve TV
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8
-#EXTINF:-1 group-title="NACIONALES", SIN: TVP Mazatlan
-https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", SIN: TVP Culiacan
-https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", SIN: TVP Los Mochis
-https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", SON: TVP Cd. Obregon
-https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
-#EXTINF:-1 group-title="NACIONALES", SON: Telemax Sonora
-http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
-https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", TLA: Tlaxcala Television
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
-#EXTINF:-1 group-title="NACIONALES", VER: TVMAS Veracruz
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", YUC: Teleplay Merida
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", ZAC: Canal 24 Zacatecas
-https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-
-*** Funciona Razonablemente bien
 #EXTINF:-1 group-title="CR", MX: IMAGEN
 http://svtv.xyz:8080/sandra30abril/CQNFV/109052
 #EXTINF:-1 group-title="CR", MX: IMAGEN
@@ -402,114 +400,114 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/109725
 #EXTINF:-1 group-title="CR", NBC UNIVERSO
 http://svtv.xyz:8080/sandra30abril/CQNFV/166714
 
-*TIM TV Funciona razonablemente bien
-#EXTINF:-1 group-title="TIM TV", A&E
+*IPTV Funciona razonablemente bien
+#EXTINF:-1 group-title="IPTV", A&E
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6419/index.m3u8
-#EXTINF:-1 group-title="TIM TV", ABC
+#EXTINF:-1 group-title="IPTV", ABC
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/1087/index.m3u8
-#EXTINF:-1 group-title="TIM TV", ABC Buffalo
+#EXTINF:-1 group-title="IPTV", ABC Buffalo
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6507/index.m3u8
-#EXTINF:-1 group-title="TIM TV", ABC Spark
+#EXTINF:-1 group-title="IPTV", ABC Spark
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6466/index.m3u8
-#EXTINF:-1 group-title="TIM TV", ABC News
+#EXTINF:-1 group-title="IPTV", ABC News
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6120/index.m3u8
-#EXTINF:-1 group-title="TIM TV", AMC
+#EXTINF:-1 group-title="IPTV", AMC
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/1083/index.m3u8
-#EXTINF:-1 group-title="TIM TV", CBC News Network
+#EXTINF:-1 group-title="IPTV", CBC News Network
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6442/index.m3u8
-#EXTINF:-1 group-title="TIM TV", CINEMAX MOVIE MAX
+#EXTINF:-1 group-title="IPTV", CINEMAX MOVIE MAX
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6155/index.m3u8
-#EXTINF:-1 group-title="TIM TV", CINEMAX ACTION MAX
+#EXTINF:-1 group-title="IPTV", CINEMAX ACTION MAX
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6156/index.m3u8
-#EXTINF:-1 group-title="TIM TV", CINEMAX OUTER MAX
+#EXTINF:-1 group-title="IPTV", CINEMAX OUTER MAX
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6154/index.m3u8
-#EXTINF:-1 group-title="TIM TV", CINEMAX THRILLER MAX
+#EXTINF:-1 group-title="IPTV", CINEMAX THRILLER MAX
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6153/index.m3u8
-#EXTINF:-1 group-title="TIM TV", CINEMAX MORE MAX
+#EXTINF:-1 group-title="IPTV", CINEMAX MORE MAX
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6152/index.m3u8
-#EXTINF:-1 group-title="TIM TV", CMT
+#EXTINF:-1 group-title="IPTV", CMT
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6448/index.m3u8
-#EXTINF:-1 group-title="TIM TV", CNBC
+#EXTINF:-1 group-title="IPTV", CNBC
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6482/index.m3u8
-#EXTINF:-1 group-title="TIM TV", CNN
+#EXTINF:-1 group-title="IPTV", CNN
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/842/index.m3u8
-#EXTINF:-1 group-title="TIM TV", CP 24
+#EXTINF:-1 group-title="IPTV", CP 24
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6501/index.m3u8
-#EXTINF:-1 group-title="TIM TV", CPAC
+#EXTINF:-1 group-title="IPTV", CPAC
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6494/index.m3u8
-#EXTINF:-1 group-title="TIM TV", CTV News Channel
+#EXTINF:-1 group-title="IPTV", CTV News Channel
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6468/index.m3u8
-#EXTINF:-1 group-title="TIM TV", CTV Comedy
+#EXTINF:-1 group-title="IPTV", CTV Comedy
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6454/index.m3u8
-#EXTINF:-1 group-title="TIM TV", CTV SCI-FI
+#EXTINF:-1 group-title="IPTV", CTV SCI-FI
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6459/index.m3u8
-#EXTINF:-1 group-title="TIM TV", CTV Two Atlantic
+#EXTINF:-1 group-title="IPTV", CTV Two Atlantic
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6423/index.m3u8
-#EXTINF:-1 group-title="TIM TV", Crime + Investigation
+#EXTINF:-1 group-title="IPTV", Crime + Investigation
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6506/index.m3u8
-#EXTINF:-1 group-title="TIM TV", Magnolia Network
+#EXTINF:-1 group-title="IPTV", Magnolia Network
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6488/index.m3u8
-#EXTINF:-1 group-title="TIM TV", The Design Network
+#EXTINF:-1 group-title="IPTV", The Design Network
 https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TIM TV", DTour
+#EXTINF:-1 group-title="IPTV", DTour
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6463/index.m3u8
-#EXTINF:-1 group-title="TIM TV", FOX Buffalo
+#EXTINF:-1 group-title="IPTV", FOX Buffalo
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6537/index.m3u8
-#EXTINF:-1 group-title="TIM TV", FOX NEWS CHANNEL
+#EXTINF:-1 group-title="IPTV", FOX NEWS CHANNEL
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19147/index.m3u8
-#EXTINF:-1 group-title="TIM TV", FX
+#EXTINF:-1 group-title="IPTV", FX
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6435/index.m3u8
-#EXTINF:-1 group-title="TIM TV", FXX
+#EXTINF:-1 group-title="IPTV", FXX
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6470/index.m3u8
-#EXTINF:-1 group-title="TIM TV", Family
+#EXTINF:-1 group-title="IPTV", Family
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6460/index.m3u8
-#EXTINF:-1 group-title="TIM TV", Family Jr.
+#EXTINF:-1 group-title="IPTV", Family Jr.
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6474/index.m3u8
-#EXTINF:-1 group-title="TIM TV", Food Network
+#EXTINF:-1 group-title="IPTV", Food Network
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6464/index.m3u8
-#EXTINF:-1 group-title="TIM TV", Asian Food Network
+#EXTINF:-1 group-title="IPTV", Asian Food Network
 https://code.vthanhtivi.pw/getlink/mytv/298/hd.m3u8
-#EXTINF:-1 group-title="TIM TV", HGTV
+#EXTINF:-1 group-title="IPTV", HGTV
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6456/index.m3u8
-#EXTINF:-1 group-title="TIM TV", HLN
+#EXTINF:-1 group-title="IPTV", HLN
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6500/index.m3u8
-#EXTINF:-1 group-title="TIM TV", Lifetime
+#EXTINF:-1 group-title="IPTV", Lifetime
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6484/index.m3u8
-#EXTINF:-1 group-title="TIM TV", MSG
+#EXTINF:-1 group-title="IPTV", MSG
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7325/index.m3u8
-#EXTINF:-1 group-title="TIM TV", E! Entertainment
+#EXTINF:-1 group-title="IPTV", E! Entertainment
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6469/index.m3u8
-#EXTINF:-1 group-title="TIM TV", NBC Buffalo
+#EXTINF:-1 group-title="IPTV", NBC Buffalo
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6535/index.m3u8
-#EXTINF:-1 group-title="TIM TV", NBC
+#EXTINF:-1 group-title="IPTV", NBC
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/1081/index.m3u8
-#EXTINF:-1 group-title="TIM TV", NESN
+#EXTINF:-1 group-title="IPTV", NESN
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/11109/index.m3u8
-#EXTINF:-1 group-title="TIM TV", Red Bull TV
+#EXTINF:-1 group-title="IPTV", Red Bull TV
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/16040/index.m3u8
-#EXTINF:-1 group-title="TIM TV", MovieTime
+#EXTINF:-1 group-title="IPTV", MovieTime
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6486/index.m3u8
-#EXTINF:-1 group-title="TIM TV", Showcase
+#EXTINF:-1 group-title="IPTV", Showcase
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6449/index.m3u8
-#EXTINF:-1 group-title="TIM TV", Slice
+#EXTINF:-1 group-title="IPTV", Slice
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6451/index.m3u8
-#EXTINF:-1 group-title="TIM TV", TLC
+#EXTINF:-1 group-title="IPTV", TLC
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6446/index.m3u8
-#EXTINF:-1 group-title="TIM TV", Teletoon
+#EXTINF:-1 group-title="IPTV", Teletoon
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6455/index.m3u8
-#EXTINF:-1 group-title="TIM TV", Treehouse
+#EXTINF:-1 group-title="IPTV", Treehouse
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6471/index.m3u8
-#EXTINF:-1 group-title="TIM TV", TSN 1
+#EXTINF:-1 group-title="IPTV", TSN 1
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6521/index.m3u8
-#EXTINF:-1 group-title="TIM TV", TSN 2
+#EXTINF:-1 group-title="IPTV", TSN 2
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6492/index.m3u8
-#EXTINF:-1 group-title="TIM TV", TSN 3
+#EXTINF:-1 group-title="IPTV", TSN 3
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6522/index.m3u8
-#EXTINF:-1 group-title="TIM TV", TSN 4
+#EXTINF:-1 group-title="IPTV", TSN 4
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6445/index.m3u8
-#EXTINF:-1 group-title="TIM TV", Vice
+#EXTINF:-1 group-title="IPTV", Vice
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="TIM TV", ET Live
+#EXTINF:-1 group-title="IPTV", ET Live
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 
 #EXTINF:-1 group-title="Music", MTV
@@ -537,11 +535,7 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports", REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 #EXTINF:-1  group-title="Sports", TUDN MX
-http://190.61.102.67:31589/play/a08j/index.m3u8
-#EXTINF:-1  group-title="Sports", TUDN MX
 http://181.209.173.10:9000/play/a05s/index.m3u8
-#EXTINF:-1  group-title="Sports", TUDN MX
-http://181.189.243.217:8000/play/a0ud/index.m3u8
 #EXTINF:-1  group-title="Sports", FOX SPORTS MX
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1  group-title="Sports", FOX SPORTS 2 MX
