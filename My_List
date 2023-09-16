@@ -228,25 +228,25 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Movies", ATRES CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:-1 group-title="Movies", USA | Paramount Network
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=1152129243&_cdn_timestamp=1694271986&_cdn_token=00d69875ac20ec027278097172d192319f9ecc83
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8
 #EXTINF:-1 group-title="Movies", USA | Sony Channel
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=1152129619&_cdn_timestamp=1694272000&_cdn_token=f44f4d0cf2e968ffe38e95366e68929700cc11db
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONY/40-hls/live-media.m3u8
 #EXTINF:-1 group-title="Movies", USA | Sony Movies
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=1152130515&_cdn_timestamp=1694272026&_cdn_token=2bc78c3278febd10a2234891f3262d83d11339c2
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/40-hls/live-media.m3u8
 #EXTINF:-1 group-title="Movies", USA | TBS
 http://181.189.243.254:8000/play/a0pj/index.m3u8
 #EXTINF:-1 group-title="Movies", USA | Studio Universal
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=1152133075&_cdn_timestamp=1694272093&_cdn_token=09e1ea1fdc554e2ac39ef0d85d9c2021120c346a
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-hls/live-media.m3u8
 #EXTINF:-1 group-title="Movies", USA | Syfy
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_session=1152133587&_cdn_timestamp=1694272108&_cdn_token=fc35e7529c6a4914249a9b5898e70986606015e6
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8
 #EXTINF:-1 group-title="Movies", USA | Warner Channel
 http://177.53.153.21:8001/play/a08l/index.m3u8
 #EXTINF:-1 group-title="Movies", USA | Star Channel
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=1152134755&_cdn_timestamp=1694272139&_cdn_token=b527aac8014c2d170ae569ffea587608173aa28f
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/40-hls/live-media.m3u8
 #EXTINF:-1 group-title="Movies", USA | FX
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=1152135411&_cdn_timestamp=1694272155&_cdn_token=6c00d82c1892b72b2ff8e0235654c397cecb250b
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FX/40-hls/live-media.m3u8
 #EXTINF:-1 group-title="Movies", USA | Universal TV
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=1152136507&_cdn_timestamp=1694272184&_cdn_token=e7e524fd981330555b6160c3c11ba86749c2cb65
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media.m3u8
 #EXTINF:-1 group-title="Movies", USA | Universal Crime
 http://177.53.153.21:8001/play/a09g/index.m3u8
 #EXTINF:-1 group-title="Movies", USA | Universal Cinema
@@ -282,9 +282,9 @@ http://177.53.153.21:8001/play/a085/index.m3u8
 #EXTINF:-1 group-title="Movies", USA | Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 #EXTINF:-1 group-title="Movies", USA | Nickelodeon
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=1152158035&_cdn_timestamp=1694272815&_cdn_token=d70d66fabe68989b6756293f6161e0da72460b25
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8
 #EXTINF:-1 group-title="Movies", USA | Nick Jr.
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_session=1152158587&_cdn_timestamp=1694272832&_cdn_token=7cb4afe65247a4de1ec5a19c322f91141857c233
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8
 
 *** Funciona Razonablemente bien
 #EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 1
