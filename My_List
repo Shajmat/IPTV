@@ -3,16 +3,11 @@
 http://svtv.xyz:8080/sandra30abril/CQNFV/109056
 #EXTINF:-1 group-title="TV Abierta", LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
-https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV Abierta", LAS ESTRELLAS MX
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
-https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV Abierta", LAS ESTRELLAS
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-#EXTINF:-1 group-title="TV Abierta", LAS ESTRELLAS
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="TV Abierta", 4 GDL
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1 group-title="TV Abierta", 8 MTY
@@ -20,17 +15,13 @@ https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
 #EXTINF:-1 group-title="News", EURO NEWS
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", ATV+ PE
+#EXTINF:-1 group-title="TV Abierta", ATV+ PE
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", TN23
-https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", VIVO PLAY
-https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", NUESTRA VISION
+#EXTINF:-1 group-title="TV Abierta", NUESTRA VISION
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", N+
+#EXTINF:-1 group-title="TV Abierta", N+
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
-#EXTINF:-1 group-title="Bics", N+ MEDIA
+#EXTINF:-1 group-title="TV Abierta", N+ MEDIA
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 group-title="TV Abierta", FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
@@ -533,7 +524,7 @@ http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19192/index.m3u8
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19148/index.m3u8
 #EXTINF:-1 group-title="Music", VEVO '80s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Musica", VEVO '90s
+#EXTINF:-1 group-title="Music", VEVO '90s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="Music", Fox Soul
 http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
